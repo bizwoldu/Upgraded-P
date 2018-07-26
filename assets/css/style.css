@@ -50,6 +50,8 @@ margin-top: 10px;
 header .highlight, header .current a{
 color: burlywood;
 }
+header .highlight, header .current2 a{
+    color: burlywood;}
 header a:hover {
      
     color: rgb(255, 207, 87);
@@ -101,4 +103,25 @@ footer {
     padding-bottom: 1px;
     padding-top: 2px; 
     color: white;
+}
+#Work{
+    color: white;
+    text-align: center;
+}
+.dg img{
+
+    width: 80%;
+    border:solid white;
+}
+.RPS img{
+
+
+    width: 80%;
+    border:solid white;
+
+}
+.GP img{
+
+    width: 80%;
+    border:solid white;
 }
