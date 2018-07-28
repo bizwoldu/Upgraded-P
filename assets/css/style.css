@@ -107,21 +107,22 @@ footer {
 #Work{
     color: white;
     text-align: center;
+    font-family: cursive;
 }
 .dg img{
 
-    width: 80%;
+    width: 70%;
     border:solid white;
 }
 .RPS img{
 
 
-    width: 80%;
+    width: 70%;
     border:solid white;
 
 }
 .GP img{
 
-    width: 80%;
+    width: 70%;
     border:solid white;
 }
