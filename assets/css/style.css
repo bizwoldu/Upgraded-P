@@ -8,6 +8,18 @@ body {
 
 }
 
+span {
+    color: coral;
+}
+
+
+
+
+span.highlight {
+    color: white;
+    font-family: cursive;
+}
+
 .container {
     width: 80%;
     margin:auto;
@@ -18,7 +30,7 @@ header {
     color:#ffffff;
     padding-top:30px;
     min-height: 70px;
-    border-bottom: burlywood 3px solid;
+    border-bottom: burlywood 5px solid;
 }
 header a{
     color:#ffffff;
@@ -54,7 +66,7 @@ header .highlight, header .current2 a{
     color: burlywood;}
 header a:hover {
      
-    color: rgb(255, 207, 87);
+    color: coral;
     font-weight: bold;
 }
 
@@ -65,7 +77,7 @@ min-height:500px;
 background-image: url("..//images/BW.jpg");
 background-size: 400px;
 opacity:0.7;
-border-bottom: burlywood 3px solid;
+border-bottom: burlywood 5px solid;
 color: rgb(0, 0, 0);
 text-align: center;
 }
@@ -77,7 +89,7 @@ margin-bottom: 10px;
 #showcase p{
      
 font-size: 20px;
-color: burlywood;
+color: coral;
     
 }
 #boxes {
@@ -101,8 +113,10 @@ footer {
     font-size: 20px;
     text-align: center;
     padding-bottom: 1px;
-    padding-top: 2px; 
+    padding-top: 2px;
     color: white;
+    border-bottom: solid burlywood;
+    border-top: solid burlywood;
 }
 #Work{
     color: white;
@@ -125,4 +139,12 @@ footer {
 
     width: 70%;
     border:solid white;
+}
+h3{
+    color:white;
+}
+p {
+    color: wheat;
+}h1 {
+    color: white;
 }
